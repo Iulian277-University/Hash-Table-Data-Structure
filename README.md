@@ -1,6 +1,6 @@
 Taiatu Iulian Marius - 312CB
 
-Hash table data structure in C
+# Hash table data structure in C
 
 For implementing this homework I used doubly circular linked lists
 without having a node as sentinel, so it was needed to keep a pointer 
