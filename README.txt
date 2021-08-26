@@ -1,4 +1,4 @@
-# Hash table data structure in C
+# Hash table data structure implemented in C
 
 // Taiatu Iulian Marius - 312CB
 
